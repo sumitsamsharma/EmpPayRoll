@@ -16,7 +16,7 @@ public class EmpData
     }
 
     public String toString() {
-        return "id=" + id + ", name='" + name + '\'' + ", salary=" + salary;
+        return "id=" + id + " Name='" + name + '\'' + "  Salary=" + salary;
     }
 }
 
